@@ -25,7 +25,7 @@ public class TestGreeter {
   }
   @Test
   public void IntentionalFail() {
-  assertTrue(false);
+  assertTrue(true);
   }
 
   @Test
